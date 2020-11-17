@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Prueba de ingreso" skipped="0" tests="2" time="38.38" timestamp="2020-11-15 11:32:17"><testcase name="Validar login"/><testcase name="Validar opciones modulos post"><error message="element not interactable&#10;  (Session info: chrome=86.0.4240.198)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'JUANSE-PC', ip: '192.168.0.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\JUANSE\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: c345b4d1dabaa0b4212b46d26e3fe9a6&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'JUANSE-PC', ip: '192.168.0.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotInteractableException">element not interactable
+  (Session info: chrome=86.0.4240.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JUANSE-PC', ip: '192.168.0.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\JUANSE\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c345b4d1dabaa0b4212b46d26e3fe9a6
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JUANSE-PC', ip: '192.168.0.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: driver.version: unknown</error><system-err>element not interactable
+  (Session info: chrome=86.0.4240.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JUANSE-PC', ip: '192.168.0.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\JUANSE\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c345b4d1dabaa0b4212b46d26e3fe9a6
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JUANSE-PC', ip: '192.168.0.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.1'
+Driver info: driver.version: unknown&#13;
+Choucair.Prueba.pageobjects.Pageobjects.seleccionar_modulo_post(Pageobjects.java:38)&#13;
+Choucair.Prueba.steps.Step.seleccionar_modulo_post(Step.java:29)&#13;
+Choucair.Prueba.definitions.Definitions.hacer_click_en_el_modulo_post(Definitions.java:38)&#13;
+✽.Hacer click en el modulo post(src/test/resources/features/Test.feature:22)&#13;
+</system-err></testcase></testsuite>

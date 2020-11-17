@@ -1,0 +1,4 @@
+[1116/110831.298:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1116/195901.732:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1116/195901.736:ERROR:exception_snapshot_win.cc(99)] thread ID 6384 not found in process
+[1116/195901.736:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)

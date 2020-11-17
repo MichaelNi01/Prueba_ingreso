@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Prueba de ingreso" skipped="0" tests="1" time="19.3" timestamp="2020-11-16 08:51:23"><testcase name="Validar ingreso a la opcion tags"><error message="For input string: &quot;(1)&quot;" type="java.lang.NumberFormatException">For input string: "(1)"</error><system-err>For input string: "(1)"&#13;
+Choucair.Prueba.pageobjects.Pageobjects.validar_todos_los_post(Pageobjects.java:107)&#13;
+Choucair.Prueba.steps.Step.validar_todos_los_post(Step.java:69)&#13;
+Choucair.Prueba.definitions.Definitions.validar_que_cargan_todos_los_post(Definitions.java:90)&#13;
+✽.Validar que cargan todos los post(src/test/resources/features/Test.feature:89)&#13;
+</system-err></testcase></testsuite>
